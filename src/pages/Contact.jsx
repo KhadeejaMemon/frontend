@@ -199,8 +199,8 @@ function Contact() {
                   </h3>
 
                   <p className="text-gray-600">
-                    Shikarpur, Sindh, Pakistan
-                  </p>
+  Karachi, Sindh, Pakistan
+</p>
                 </div>
               </div>
 
