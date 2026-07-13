@@ -6,6 +6,27 @@ import { TypeAnimation } from "react-type-animation";
 function Certificates() {
  const certificates = [
   {
+  title: "AI Internship Completion Certificate",
+  provider: "Decode Labs",
+  type: "Certificate",
+  year: "2026",
+  image: "/Images/Certificates/DecodeLabs.GIF",
+  description:
+    "Successfully completed an AI Internship focused on AI Chatbot, AI Recommendation System, and AI Data Classification using Python and Artificial Intelligence concepts.",
+  link: "https://www.decodelabs.tech/certificate?email=memon12787%40gmail.com&studentId=AI061347",
+},
+
+{
+  title: "Python Programming Internship Completion Certificate",
+  provider: "CodeAlpha",
+  type: "Certificate",
+  year: "2026",
+  image: "/Images/Certificates/CodeAlpha.GIF",
+  description:
+    "Successfully completed a Python Programming Internship by developing a Hangman Game, Basic Chatbot, and Stock Portfolio Tracker using Python.",
+  link: "https://www.codealpha.tech/#/verification?id=CA%2FDF1%2F101218",
+},
+  {
     title: "Basics of Agents & Environments in AI",
     provider: "UniAthena",
     type: "Certificate",
